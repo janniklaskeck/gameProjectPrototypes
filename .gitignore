@@ -1,4 +1,5 @@
-*
-!HeistImpossible/*
-!TurnBasedStrategy/*
-!PathLengthTest/*
+/*
+!.gitignore
+!/HeistImpossible
+!/TurnBasedStrategy
+!/PathLengthTest
